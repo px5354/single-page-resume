@@ -35,10 +35,6 @@ export default class About extends Component {
                         </span>
                         <br></br>
                         <span>
-                           {resumeData.phoneNumber}
-                        </span>
-                        <br></br>
-                        <span>
                            {resumeData.address}
                         </span>
                      </p>

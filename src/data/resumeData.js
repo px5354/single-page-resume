@@ -2,7 +2,6 @@ let resumeData = {
     "name": "Philippe Le",
     "email": "philippe.le.ple@gmail.com",
     "languages": "French, English, Chinese (Cantonese)",
-    "phoneNumber": "+15148341388",
     "role": "Software Engineer",
     "roleDescription": "Team player software engineer with a quality focused mindset. With a strong thirst for knowledge, new ideas are constantly brought to the table.",
     "socialLinks":[
